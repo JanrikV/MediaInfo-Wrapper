@@ -1,5 +1,5 @@
-# MediaInfo Wrapper
- A C# .NET Wrapper for the MediaInfo library
+# MediaInfo Wrapper - Simple form application
+ A C# .NET Wrapper around the MediaInfo library
 
 ***Note that you need to build library in x64 or x86, else it will not work.***
 
