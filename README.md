@@ -1,7 +1,7 @@
 # MediaInfo Wrapper - Simple form application
  A C# .NET Wrapper around the MediaInfo library
 
-Download the [latest version](https://github.com/JanrikV/MediaInfo-Wrapper/releases) of MediaInfoWrapper.exe for your platform (x64 or x86).
+Download the [latest version](https://github.com/JanrikV/MediaInfo-Wrapper/releases) of **MediaInfo Wrapper application** for your platform (win x64 or x86).
 
 ## Info 
 
