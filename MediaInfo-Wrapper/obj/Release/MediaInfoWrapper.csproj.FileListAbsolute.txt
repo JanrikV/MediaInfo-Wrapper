@@ -1,0 +1,8 @@
+E:\JanrikV\Projects\MediaInfoWrapper\bin\Release\MediaInfoWrapper.exe
+E:\JanrikV\Projects\MediaInfoWrapper\bin\Release\MediaInfoWrapper.pdb
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Release\MediaInfoWrapper.MainForm.resources
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Release\MediaInfoWrapper.Properties.Resources.resources
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Release\MediaInfoWrapper.csproj.GenerateResource.cache
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Release\MediaInfoWrapper.csproj.CoreCompileInputs.cache
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Release\MediaInfoWrapper.exe
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Release\MediaInfoWrapper.pdb

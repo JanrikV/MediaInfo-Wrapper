@@ -1,0 +1,18 @@
+E:\JanrikV\Projects\MediaInfoWrapper\bin\Debug\MediaInfoWrapper.exe
+E:\JanrikV\Projects\MediaInfoWrapper\bin\Debug\MediaInfoWrapper.pdb
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Debug\MediaInfoWrapper.csproj.AssemblyReference.cache
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Debug\MediaInfoWrapper.MainForm.resources
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Debug\MediaInfoWrapper.Properties.Resources.resources
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Debug\MediaInfoWrapper.csproj.GenerateResource.cache
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Debug\MediaInfoWrapper.csproj.CoreCompileInputs.cache
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Debug\MediaInfoWrapper.exe
+E:\JanrikV\Projects\MediaInfoWrapper\obj\Debug\MediaInfoWrapper.pdb
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.exe
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.pdb
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.AssemblyReference.cache
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.MainForm.resources
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.Properties.Resources.resources
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.GenerateResource.cache
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.CoreCompileInputs.cache
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.exe
+E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.pdb
