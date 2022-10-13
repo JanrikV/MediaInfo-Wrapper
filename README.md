@@ -1,9 +1,7 @@
-# MediaInfo Wrapper
- A C# .NET Wrapper for the MediaInfo library
+# MediaInfo Wrapper - Simple form application
+ A C# .NET Wrapper around the MediaInfo library
 
-***Note that you need to build library in x64 or x86, else it will not work.***
-
-Download the [latest version](https://github.com/JanrikV/MediaInfo-Wrapper/releases) of MediaInfoWrapper.exe for your platform (x64 or x86).
+Download the [latest version](https://github.com/JanrikV/MediaInfo-Wrapper/releases) of **MediaInfo Wrapper application** for your platform (win x64 or x86).
 
 ## Info 
 
@@ -13,7 +11,7 @@ Nothing new here, this is just simple C# form application that uses MediaInfo li
 
 ## Debug
 
-Put [mediainfo dll file](https://github.com/JanrikV/MediaInfo-Wrapper/tree/main/dlls) inside bin/debug folder and rename it **MediaInfo.dll**.
+Move [mediainfo dll file](https://github.com/JanrikV/MediaInfo-Wrapper/tree/main/dlls) inside bin/debug folder and rename it **MediaInfo.dll**.
 
 ##
 
