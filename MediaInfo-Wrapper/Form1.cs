@@ -132,9 +132,9 @@ namespace MediaInfoWrapper
                         string vWidth = MI.Get(StreamKind.Video, 0, "Width");
                         string vHeight = MI.Get(StreamKind.Video, 0, "Height");
                         string duration = MI.Get(0, 0, "Duration/String1").Substring(0, MI.Get(0, 0, "Duration/String3").LastIndexOf("."));
-                        string fps = MI.Get(StreamKind.Video, 0, "FrameRate/String");
-                        string fpst = Regex.Replace(fps, @"\([^()]*\)", string.Empty).ToLower();
-                        string fpsTrimmed = Regex.Replace(fpst, @"\s+", " ");
+                        string vFPS = MI.Get(StreamKind.Video, 0, "FrameRate/String");
+                        string fpst = Regex.Replace(vFPS, @"\([^()]*\)", string.Empty).ToLower();
+                        string fpsTrimmed = Regex.Replace(fpst, @"\s+fps", " ");
 
 
                         // Audio
@@ -169,7 +169,7 @@ namespace MediaInfoWrapper
                         display += "Duration: " + duration + "\r\n";
                         display += "Resolution: " + vWidth + "x" + vHeight + "\r\n";
                         display += "Video bitrate: " + vBitRate + "\r\n";
-                        display += "FPS: " + fps + "\r\n";
+                        display += "FPS: " + fpsTrimmed + "\r\n";
                         display += "Audio: " + lang + ", " + audio + ", " + aBitRate + "\r\n";
                         display += "Subtitles: " + subs + "\r\n";
 
