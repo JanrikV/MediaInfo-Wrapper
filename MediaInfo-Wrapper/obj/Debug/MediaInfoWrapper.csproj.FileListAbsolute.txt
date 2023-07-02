@@ -16,3 +16,14 @@ E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapp
 E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.CoreCompileInputs.cache
 E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.exe
 E:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.pdb
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.exe.config
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.exe
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.pdb
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.AssemblyReference.cache
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.SuggestedBindingRedirects.cache
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.MainForm.resources
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.Properties.Resources.resources
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.GenerateResource.cache
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.CoreCompileInputs.cache
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.exe
+D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.pdb

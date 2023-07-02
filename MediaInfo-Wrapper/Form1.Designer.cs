@@ -42,20 +42,20 @@ namespace MediaInfoWrapper
             // 
             // SelectedFile
             // 
-            this.SelectedFile.BackColor = System.Drawing.Color.Lavender;
-            this.SelectedFile.Font = new System.Drawing.Font("Source Code Pro", 9.749999F, System.Drawing.FontStyle.Bold);
-            this.SelectedFile.Location = new System.Drawing.Point(44, 79);
+            this.SelectedFile.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.SelectedFile.Font = new System.Drawing.Font("Source Code Pro", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SelectedFile.Location = new System.Drawing.Point(28, 44);
             this.SelectedFile.Name = "SelectedFile";
             this.SelectedFile.Size = new System.Drawing.Size(294, 24);
             this.SelectedFile.TabIndex = 0;
-            this.SelectedFile.Text = "Filename...";
+            this.SelectedFile.Text = "Select a File...";
             // 
             // openMediaFile
             // 
-            this.openMediaFile.Font = new System.Drawing.Font("Source Code Pro", 9.749999F, System.Drawing.FontStyle.Bold);
-            this.openMediaFile.Location = new System.Drawing.Point(44, 125);
+            this.openMediaFile.Font = new System.Drawing.Font("Source Sans Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.openMediaFile.Location = new System.Drawing.Point(28, 87);
             this.openMediaFile.Name = "openMediaFile";
-            this.openMediaFile.Size = new System.Drawing.Size(108, 32);
+            this.openMediaFile.Size = new System.Drawing.Size(107, 32);
             this.openMediaFile.TabIndex = 1;
             this.openMediaFile.Text = "Select file";
             this.openMediaFile.UseVisualStyleBackColor = true;
@@ -63,8 +63,10 @@ namespace MediaInfoWrapper
             // 
             // MediaInfoDataBox
             // 
-            this.MediaInfoDataBox.BackColor = System.Drawing.Color.Lavender;
-            this.MediaInfoDataBox.Location = new System.Drawing.Point(44, 193);
+            this.MediaInfoDataBox.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.MediaInfoDataBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.MediaInfoDataBox.Font = new System.Drawing.Font("Source Sans Pro Semibold", 10F, System.Drawing.FontStyle.Bold);
+            this.MediaInfoDataBox.Location = new System.Drawing.Point(28, 150);
             this.MediaInfoDataBox.Name = "MediaInfoDataBox";
             this.MediaInfoDataBox.Size = new System.Drawing.Size(639, 303);
             this.MediaInfoDataBox.TabIndex = 2;
@@ -74,14 +76,14 @@ namespace MediaInfoWrapper
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.SlateGray;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(742, 529);
             this.Controls.Add(this.MediaInfoDataBox);
             this.Controls.Add(this.openMediaFile);
             this.Controls.Add(this.SelectedFile);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
-            this.Text = "MediaInfo Wrapper | v1.0";
+            this.Text = "MediaInfo Wrapper | v1.1";
             this.ResumeLayout(false);
             this.PerformLayout();
 

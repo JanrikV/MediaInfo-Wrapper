@@ -54,13 +54,12 @@ namespace MediaInfoWrapper
             openFileDialog1.FilterIndex = 1;
 
             // Set default value of SelectedFile (textbox)
-            SelectedFile.Text = "Filename...";
+            SelectedFile.Text = "Select a File...";
             SelectedFile.Size = new System.Drawing.Size(283, 24);
 
             // Clear and hide MediaInfo Data box
             MediaInfoDataBox.Clear();
             MediaInfoDataBox.Visible = false;
-
 
 
             try
@@ -92,10 +91,9 @@ namespace MediaInfoWrapper
                         // General
                         string container = MI.Get(StreamKind.General, 0, "Format");
                         string bitrate = MI.Get(StreamKind.General, 0, "BitRate/String");
-
                         string fileSize = MI.Get(StreamKind.General, 0, "FileSize/String");
 
-                        // subs list
+                        // Subtitles
                         string subList = "";
                         string subs = "";
                         string pattern = "";
@@ -141,10 +139,20 @@ namespace MediaInfoWrapper
                         string audio = MI.Get(StreamKind.Audio, 0, "Format");
                         string aBitRate = MI.Get(StreamKind.Audio, 0, "BitRate/String");
                         string channel = MI.Get(StreamKind.Audio, 0, "Channel(s)");
-                        string lang = MI.Get(StreamKind.Audio, 0, "Language/String1");
                         string audioCount = MI.Get(StreamKind.General, 0, "TextCount");
+                        string language = "";
 
-                        // Check video bitrate
+                        // Check if audio name is empty, then use language name from video
+                        if (string.IsNullOrEmpty(MI.Get(StreamKind.Audio, 0, "Language/String1")))
+                        {
+                             language = MI.Get(StreamKind.Video, 0, "Language/String1");
+                        }
+                        else
+                        {
+                             language = MI.Get(StreamKind.Audio, 0, "Language/String1");
+                        }
+
+                        // Check if video bitrate found
                         if (string.IsNullOrEmpty(vBitRate))
                         {
                             MessageBox.Show("Video bitrate not found");
@@ -152,7 +160,7 @@ namespace MediaInfoWrapper
                         }
 
 
-                        // Check audio bitrate
+                        // Check if audio bitrate found
                         if (string.IsNullOrEmpty(aBitRate))
                         {
                             MessageBox.Show("Audio bitrate not found");
@@ -163,16 +171,14 @@ namespace MediaInfoWrapper
                         string display = "";
 
                         display += "\r\n" + FileNameWithoutExt + "\r\n";
-
                         display += "\r\n";
 
                         display += "Duration: " + duration + "\r\n";
                         display += "Resolution: " + vWidth + "x" + vHeight + "\r\n";
                         display += "Video bitrate: " + vBitRate + "\r\n";
                         display += "FPS: " + fpsTrimmed + "\r\n";
-                        display += "Audio: " + lang + ", " + audio + ", " + aBitRate + "\r\n";
+                        display += "Audio: " + language + ", " + audio + ", " + aBitRate + "\r\n";
                         display += "Subtitles: " + subs + "\r\n";
-
 
 
                         MediaInfoDataBox.Clear(); // Clear
@@ -187,8 +193,7 @@ namespace MediaInfoWrapper
                 }
                 else
                 {
-                    MessageBox.Show("Select file");
-
+                    MessageBox.Show("Select a File");
                 }
             }
             catch (Exception ex)

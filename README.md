@@ -15,4 +15,9 @@ Move [mediainfo dll file](https://github.com/JanrikV/MediaInfo-Wrapper/tree/main
 
 ##
 
-![MediaInfo Wrapper 1](https://github.com/JanrikV/MediaInfo-Wrapper/blob/main/img/mediainfowrapper-2.png)
+![MediaInfo Wrapper 1](https://github.com/JanrikV/MediaInfo-Wrapper/blob/main/img/MediaInfoWrapper-VideoDetails.png)
+
+## Hash
+
+MD5: fb2c0b0e835243592a97a266241bae54
+SHA1: fb2c0b0e835243592a97a266241bae54
