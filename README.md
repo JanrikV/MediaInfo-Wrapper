@@ -17,8 +17,6 @@ Move [MediaInfo.dll file](https://github.com/JanrikV/MediaInfo-Wrapper/tree/main
 
 ![MediaInfo Wrapper 1](https://github.com/JanrikV/MediaInfo-Wrapper/blob/main/img/MediaInfoWrapper-VideoDetails.png)
 
-## Hash
-
 **MD5:** fb2c0b0e835243592a97a266241bae54
 
 **SHA1:** 45aa5decead07e9cf7528d498320bf806ba39229
