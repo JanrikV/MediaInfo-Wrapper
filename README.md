@@ -11,9 +11,9 @@ Nothing new here, this is just simple C# form application that uses MediaInfo li
 
 ## Debug
 
-Move [mediainfo dll file](https://github.com/JanrikV/MediaInfo-Wrapper/tree/main/dlls) inside bin/debug folder and rename it to **MediaInfo.dll**.
+Move [MediaInfo.dll file](https://github.com/JanrikV/MediaInfo-Wrapper/tree/main/dlls) inside bin/debug folder and rename it to **MediaInfo.dll**.
 
-##
+## Video Details
 
 ![MediaInfo Wrapper 1](https://github.com/JanrikV/MediaInfo-Wrapper/blob/main/img/MediaInfoWrapper-VideoDetails.png)
 
