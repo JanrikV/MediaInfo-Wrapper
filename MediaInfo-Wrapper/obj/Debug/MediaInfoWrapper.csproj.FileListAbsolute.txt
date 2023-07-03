@@ -27,3 +27,14 @@ D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapp
 D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.CoreCompileInputs.cache
 D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.exe
 D:\JanrikV\Projects\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.pdb
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.exe.config
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.exe
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\bin\Debug\MediaInfoWrapper.pdb
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.AssemblyReference.cache
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.MainForm.resources
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.Properties.Resources.resources
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.GenerateResource.cache
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.csproj.CoreCompileInputs.cache
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.exe
+C:\Users\Janrik\Documents\Github\MediaInfo Wrapper\MediaInfo-Wrapper\obj\Debug\MediaInfoWrapper.pdb
