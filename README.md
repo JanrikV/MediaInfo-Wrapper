@@ -5,7 +5,9 @@ Download the [latest version](https://github.com/JanrikV/MediaInfo-Wrapper/relea
 
 ## Info 
 
-Nothing new here, this is just simple C# form application that uses MediaInfo library. Choose a file and it will show basic info of the video.
+Nothing new here, this is just simple C# form application that uses MediaInfo library. Choose a file and it will show the basic info of the video.
+
+E.g. ***Video bitrate***, ***resolution***, ***fps***, ***audio bitrate***, ***runtime***, ***languages*** and ***subtitles***.
 
 ***Note: Mediainfo DLL file is required***
 
